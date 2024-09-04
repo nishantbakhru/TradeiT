@@ -1,6 +1,0 @@
-anchor init "appname"
-npm init -y
-npm install next@latest react react-dom
-add scripts to package.json
-add layout.tsx and page.tsx to app folder
-npm run dev to see if it works
